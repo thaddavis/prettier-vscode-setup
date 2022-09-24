@@ -48,3 +48,36 @@ example-code
 
 - TEST!
 
+## STEP 3
+
+- Customize Prettier behavior via the `.prettierrc.js` file at root with the following contents ie:
+
+- note difference between Prettier and ESLint
+
+```
+module.exports = {
+  overrides: [
+    {
+      files: "*.js",
+      options: {
+        semi: false,
+        trailingComma: "es5",
+        singleQuote: true,
+      },
+    },
+    {
+      files: ["*.css"],
+      options: {
+        tabWidth: 4,
+      },
+    },
+  ],
+};
+```
+
+- TEST!
+
+- Reference Links ie:
+    * https://prettier.io/docs/en/configuration.html#configuration-schema
+    * https://prettier.io/docs/en/configuration.html#basic-configuration
+    * https://prettier.io/docs/en/index.html
