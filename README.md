@@ -98,14 +98,3 @@ example-code
     * https://prettier.io/docs/en/configuration.html#configuration-schema
     * https://prettier.io/docs/en/configuration.html#basic-configuration
     * https://prettier.io/docs/en/index.html
-
-## TAKE IT FURTHER
-
-- Next steps for more advanced formatting tools would be ESLint
-    * https://eslint.org/
-
-- The configurability of Prettier is limited but this is a feature for this tool aka Prettier is opinionated
-
-- Prettier vs. ESLint
-    * https://github.com/prettier/prettier
-    * https://github.com/eslint/eslint
