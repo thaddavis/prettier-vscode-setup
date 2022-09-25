@@ -82,7 +82,7 @@ module.exports = {
     * https://prettier.io/docs/en/configuration.html#basic-configuration
     * https://prettier.io/docs/en/index.html
 
-## STEP 4
+## TAKE IT FURTHER
 
 - Next steps for more advanced formatting tools would be ESLint
     * https://eslint.org/
