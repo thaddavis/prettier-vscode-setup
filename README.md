@@ -22,7 +22,7 @@ example-code
 
 - Integrate project with Prettier extension and VSCode via `.vscode` config directory
 
-- Create `.vscode` directory with a file called `settings.json` with the following contents ie:
+- Create `.vscode` directory at the root of your project with a file called `settings.json` with the following contents ie:
 
 ```
 {
