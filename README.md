@@ -40,8 +40,6 @@ example-code
 }
 ```
 
-- TEST!
-
 ## STEP 3
 
 - Customize Prettier behavior via the `.prettierrc.js` file at root with the following contents ie:
@@ -68,8 +66,6 @@ module.exports = {
   ],
 };
 ```
-
-- TEST!
 
 - Reference Links ie:
     * https://prettier.io/docs/en/configuration.html#configuration-schema
