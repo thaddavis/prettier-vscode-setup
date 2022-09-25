@@ -98,4 +98,4 @@ example-code
     * https://prettier.io/docs/en/index.html
 
 
-## ENJOY USING PRETTIER!
+# **ENJOY USING PRETTIER!**
