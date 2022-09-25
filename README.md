@@ -2,7 +2,9 @@
 
 ## STEP 1
 
-- add `example-code` directory with the following test file extensions ie:
+- You will need an existing or new project to use Prettier
+
+- To learn Prettier with a dummy project, add an `example-code` directory with the following test file extensions ie:
 
 ```
 example-code
