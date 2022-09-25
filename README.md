@@ -2,13 +2,9 @@
 
 ## STEP 1
 
-- add .gitignore with the following file contents ie:
+- You will need an existing or new project to use Prettier
 
-```
-.DS_Store
-```
-
-- add `example-code` directory with the following test file extensions ie:
+- To learn Prettier with a dummy project, create an `example-code` directory with the following file extensions ie:
 
 ```
 example-code
