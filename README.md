@@ -17,7 +17,7 @@ example-code
 ## STEP 2
 
 - Install Prettier VSCode extension
-    * via the GUI
+    * via the GUI -> Search for the "Prettier" extension in the Extensions Tab in VSCode
     * via the CLI ->  `code --install-extension esbenp.prettier-vscode`
 
 - Integrate project with Prettier extension and VSCode via `.vscode` config directory
