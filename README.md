@@ -2,12 +2,6 @@
 
 ## STEP 1
 
-- add .gitignore with the following file contents ie:
-
-```
-.DS_Store
-```
-
 - add `example-code` directory with the following test file extensions ie:
 
 ```
