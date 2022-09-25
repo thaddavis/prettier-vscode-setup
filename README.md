@@ -18,15 +18,16 @@ example-code
  ┗ test.tsx
 ```
 
+
 ## STEP 2
 
 - Install Prettier VSCode extension
-    * via the GUI
+    * via the GUI -> Search for the "Prettier" extension in the Extensions Tab in VSCode
     * via the CLI ->  `code --install-extension esbenp.prettier-vscode`
 
 - Integrate project with Prettier extension and VSCode via `.vscode` config directory
 
-- Create `.vscode` direction with a file called `settings.json` with the following contents ie:
+- Create `.vscode` directory with a file called `settings.json` with the following contents ie:
 
 ```
 {
@@ -44,6 +45,18 @@ example-code
     },
     "editor.formatOnSave": true
 }
+```
+
+- Your project should now look like this:
+
+```
+.vscode
+ ┣ settings.json
+example-code
+ ┣ test.css
+ ┣ test.js
+ ┣ test.ts
+ ┗ test.tsx
 ```
 
 - TEST!
