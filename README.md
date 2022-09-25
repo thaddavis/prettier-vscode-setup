@@ -50,9 +50,7 @@ example-code
 
 ## STEP 3
 
-- Customize Prettier behavior via the `.prettierrc.js` file at root with the following contents ie:
-
-- note difference between Prettier and ESLint
+- Customize Prettier behavior via the `.prettierrc.js` file at the root of your project with the following contents ie:
 
 ```
 module.exports = {
