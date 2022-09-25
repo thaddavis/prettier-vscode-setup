@@ -98,4 +98,5 @@ example-code
     * https://prettier.io/docs/en/index.html
 
 
-# __ENJOY USING PRETTIER!__
+
+# * *ENJOY USING PRETTIER!* *
