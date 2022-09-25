@@ -58,8 +58,6 @@ example-code
 
 - Customize Prettier behavior via the `.prettierrc.js` file at root with the following contents ie:
 
-- note difference between Prettier and ESLint
-
 ```
 module.exports = {
   overrides: [
