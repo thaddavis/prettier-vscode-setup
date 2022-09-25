@@ -97,4 +97,4 @@ example-code
     * https://prettier.io/docs/en/configuration.html#basic-configuration
     * https://prettier.io/docs/en/index.html
 
-## AND THAT'S ALL YOU NEED TO DO! ENJOY USING PRETTIER!
+## ENJOY USING PRETTIER!
