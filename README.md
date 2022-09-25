@@ -75,6 +75,19 @@ module.exports = {
 };
 ```
 
+- Your project should now look like this:
+
+```
+.vscode
+ ┣ settings.json
+example-code
+ ┣ test.css
+ ┣ test.js
+ ┣ test.ts
+ ┗ test.tsx
+.prettierrc.js
+```
+
 - TEST!
 
 - Reference Links ie:
